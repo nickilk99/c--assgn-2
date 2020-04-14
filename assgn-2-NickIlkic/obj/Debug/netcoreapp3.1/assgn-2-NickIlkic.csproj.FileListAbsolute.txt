@@ -1,0 +1,11 @@
+C:\Users\admin\source\repos\assgn-2-NickIlkic\assgn-2-NickIlkic\bin\Debug\netcoreapp3.1\assgn-2-NickIlkic.exe
+C:\Users\admin\source\repos\assgn-2-NickIlkic\assgn-2-NickIlkic\bin\Debug\netcoreapp3.1\assgn-2-NickIlkic.deps.json
+C:\Users\admin\source\repos\assgn-2-NickIlkic\assgn-2-NickIlkic\bin\Debug\netcoreapp3.1\assgn-2-NickIlkic.runtimeconfig.json
+C:\Users\admin\source\repos\assgn-2-NickIlkic\assgn-2-NickIlkic\bin\Debug\netcoreapp3.1\assgn-2-NickIlkic.runtimeconfig.dev.json
+C:\Users\admin\source\repos\assgn-2-NickIlkic\assgn-2-NickIlkic\bin\Debug\netcoreapp3.1\assgn-2-NickIlkic.dll
+C:\Users\admin\source\repos\assgn-2-NickIlkic\assgn-2-NickIlkic\bin\Debug\netcoreapp3.1\assgn-2-NickIlkic.pdb
+C:\Users\admin\source\repos\assgn-2-NickIlkic\assgn-2-NickIlkic\obj\Debug\netcoreapp3.1\assgn-2-NickIlkic.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\assgn-2-NickIlkic\assgn-2-NickIlkic\obj\Debug\netcoreapp3.1\assgn-2-NickIlkic.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\assgn-2-NickIlkic\assgn-2-NickIlkic\obj\Debug\netcoreapp3.1\assgn-2-NickIlkic.AssemblyInfo.cs
+C:\Users\admin\source\repos\assgn-2-NickIlkic\assgn-2-NickIlkic\obj\Debug\netcoreapp3.1\assgn-2-NickIlkic.dll
+C:\Users\admin\source\repos\assgn-2-NickIlkic\assgn-2-NickIlkic\obj\Debug\netcoreapp3.1\assgn-2-NickIlkic.pdb
